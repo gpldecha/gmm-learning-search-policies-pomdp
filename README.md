@@ -9,7 +9,7 @@ Parameters of GMM policy learned during search of a wooden green block on a tabl
 ```sh
 $ addpath(genpath('./gmm-learning-search-policies-pomdp'))
 ```
-4. Run the script PlotGMMTable.m
+4. Run the script PlotGMMTable.m (make sure you are outside the directory "gmm-learning-search-policies-pomdp")
 5. You should see the following plot:
 
 <p align="center">
