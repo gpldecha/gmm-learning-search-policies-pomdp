@@ -42,7 +42,7 @@ for k = 1:K
    % handles(k) = surf(xp,yp,zp);
     handles(k) = mesh(xp(1:5:end,1:5:end),yp(1:5:end,1:5:end),zp(1:5:end,1:5:end),'edgecolor', 'k','facecolor','none');
     
-    %scatter3(Mus(1,k),Mus(2,k),Mus(3,k),2,'filled','ko');
+    scatter3(Mus(1,k),Mus(2,k),Mus(3,k),10,'filled','ko');
     %sh = surfl(xp, yp, zp);
     %set(sh,'FaceColor',[0.5,0.5,0.5],'FaceAlpha',weights(k),'EdgeColor','none')
 
