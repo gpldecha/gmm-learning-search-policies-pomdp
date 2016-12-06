@@ -13,5 +13,5 @@ $ addpath(genpath('./gmm-learning-search-policies-pomdp'))
 5. You should see the following plot:
 
 <p align="center">
-<img src="docs/gmm.png" width="480">
+<img src="docs/gmm.png" width="640">
 </p>
